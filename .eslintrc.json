@@ -22,8 +22,7 @@
         "constructor-super": "warn",
         "valid-typeof": "warn",
         "no-delete-var": "warn",
-        // 分号警告
-        "semi": "warn",
+        "no-extra-semi": "warn",
         // 单引号警告
         "quotes": ["warn", "single"],
         // 强制所有控制语句使用一致的括号风格
