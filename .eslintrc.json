@@ -26,7 +26,7 @@
         // 单引号警告
         "quotes": ["warn", "single"],
         // 强制所有控制语句使用一致的括号风格
-        "curly": "warn",
+        // "curly": "warn",
         // 要求 switch 语句中有 default 分支
         "default-case": "warn",
 
