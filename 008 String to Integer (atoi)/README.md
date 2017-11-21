@@ -37,8 +37,8 @@ var myAtoi = function (str) {
     if (r > INT_MAX) return INT_MAX
     if (r < INT_MIN) return INT_MIN
 
-    return r;
-};
+    return r
+}
 
-module.exports = myAtoi;
+module.exports = myAtoi
 ```

@@ -15,6 +15,6 @@ var myAtoi = function (str) {
     if (r < INT_MIN) return INT_MIN
 
     return r
-};
+}
 
 module.exports = myAtoi
