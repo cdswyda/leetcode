@@ -1,13 +1,13 @@
 /**
- * @param {number[]} nums
- * @param {number} target
+ * @param {number[]} nums 输入数组
+ * @param {number} target 目标值
  * @return {number[]}
  */
 var twoSum = function (nums, target) {
     if (!nums) {
         return [];
     }
-    // map存储 数组vlaue作为key,下标作为值
+    // map存储 数组 value 作为 key , 下标作为值
     let map = {},
         curr;
 
